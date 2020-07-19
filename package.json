@@ -77,7 +77,7 @@
     "standard-version": "^4.2.0",
     "ts-helpers": "~1.1.2",
     "ts-node": "~3.3.0",
-    "tslint": "~5.8.0",
+    "tslint": "~5.9.0",
     "typescript": "~2.5.2",
     "validate-commit-msg": "^2.12.2",
     "webpack": "3.8.1",
